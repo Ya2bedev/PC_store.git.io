@@ -34,7 +34,7 @@ body {
 .container .header {
 	color: var(--color-Navy);
 	font-family: var(--font-EgRonal);
-	font-size: 1.5rem;
+	font-size: 1rem;
 	letter-spacing: 3px;
 	text-align: center;
 	text-transform: uppercase;
@@ -43,7 +43,6 @@ body {
 	border-bottom: 3px solid black;
 }
 .container .pro-cart {
-	padding: 10px;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
