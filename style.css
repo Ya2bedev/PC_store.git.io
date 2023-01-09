@@ -86,9 +86,9 @@ body {
 }
 .container .pro-cart .cart .content .price span {
 	font-weight: normal;
-	background-color: var(--color-Navy);
+
 	padding: 1px;
-	color: var(--color-grey);
+
 	font-family: var(--font-khream);
 	margin-top: 3px 0px 1px;
 }
@@ -100,7 +100,7 @@ body {
 
 /* STYLE  BUTTOM ADD CAST */
 .container .pro-cart .cart .content .btn-add-cart {
-	margin: 1rem .75rem 0px 0px;
+	margin: 1rem 0.75rem 0px 0px;
 	padding: 0.75em 1em;
 	font-size: 12px;
 	text-transform: uppercase;
